@@ -111,11 +111,11 @@ The model is trained using:
 
 ## Results
 The model achieved the following metrics on the test dataset:
-- **Accuracy**: XX.X%
-- **Precision**: XX.X%
-- **Recall**: XX.X%
-- **Specificity**: XX.X%
-- **F1 Score**: XX.X%
+- **Accuracy**: 91.99%
+- **Precision**: 90.09%
+- **Recall**: 97.95%
+- **Specificity**: 82.05%
+- **F1 Score**: 93.86%
 
 ---
 
